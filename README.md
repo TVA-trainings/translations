@@ -16,4 +16,11 @@ Paragraph **Conclusions**
 Error: `... By prioritizing fall elimination and substitution, ...` - like it's substituting fall hazards?
 
 Proposed fix:  
-```The hierarchy of fall protection provides a structured approach to identifying and managing fall hazards. By first prioritizing elimination and substitution, followed by engineering controls, administrative measures, and finally personal protective equipment (PPE), employers can create a safer workplace for their employees. It is essential to evaluate each situation individually and select the most effective and practical fall protection method based on the specific task, work environment, and available resources. Ultimately, combining multiple methods—rather than relying solely on PPE—is the most effective way to reduce the risk of falls and improve worker safety. ```
+```The hierarchy of fall protection provides a structured approach to identifying and managing fall hazards. By first prioritizing elimination and substitution, followed by engineering controls, administrative measures, and finally personal protective equipment (PPE), employers can create a safer workplace for their employees. It is essential to evaluate each situation individually and select the most effective and practical fall protection method based on the specific task, work environment, and available resources. Ultimately, combining multiple methods—rather than relying solely on PPE—is the most effective way to reduce the risk of falls and improve worker safety. ```  
+
+
+## Chemicals and ATEX areas
+
+Paragraph  
+`In case chemical is transferred from a bigger container into a smaller container, we must ensure that we also mark the smaller container correctly and never place any chemicals into drinking bottles!` while the common practice is to transfer from bigger to smaller, to keep the sentence clear we could reduce it to `In case chemical is transferred to other container, we must ensure that we also mark the new container correctly`.  
+And then something like `NEVER place any chemicals into drinking bottles!` should be as another sentence imho.
