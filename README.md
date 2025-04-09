@@ -26,3 +26,8 @@ Paragraph
 And then something like `NEVER place any chemicals into drinking bottles!` should be as another sentence imho.  
  
 Take look at **The explosion protection document should include** at the end.
+
+
+## Hot Work
+Clarify on usage of fire blanket.  
+In the last paragraph link to: https://tva.fi/lms30/lesson/risk-management-example-alternative-tools/
