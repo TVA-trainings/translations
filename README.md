@@ -63,4 +63,6 @@ Replace the local video with YT (use custom HTML rather that YouTube embed funct
 
 ## Question about forklift
 
-TEST question: `Forklift truck can be used by anyone and driver does not need a permit` with proper answear set as TRUE. We can rephrase the question or (better) change the right option to FALSE.
+TEST question: `Forklift truck can be used by anyone and driver does not need a permit` with proper answear set as TRUE. We can rephrase the question or (better) change the right option to FALSE.  
+
+*Fixed in polish version*
