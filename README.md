@@ -1,3 +1,14 @@
+## Shared workplace and site induction
+
+In the test there is a question:  
+```
+Contractors are responsible for their own equipment service and maintenance inspections
+```
+But the thing is - we haven't mentoined this aspect in the lesson about shared workplace.
+
+In the last paragraph, about contractor, we should add somethinhg like: `Contractors are responsible for their own equipment service and maintenance inspections`.
+It's here: https://tva.fi/lms30/lesson/shared-workplace-and-site-induction/ - check also version in the course for plastic card.
+
 ## Working at height and lifting operations
 
 Paragraph  
