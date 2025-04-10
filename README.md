@@ -7,7 +7,17 @@ Contractors are responsible for their own equipment service and maintenance insp
 But the thing is - we haven't mentoined this aspect in the lesson about shared workplace.
 
 In the last paragraph, about contractor, we should add somethinhg like: `Contractors are responsible for their own equipment service and maintenance inspections`.
-It's here: https://tva.fi/lms30/lesson/shared-workplace-and-site-induction/ - check also version in the course for plastic card.
+It's here: https://tva.fi/lms30/lesson/shared-workplace-and-site-induction/ - check also version in the course for plastic card.  
+
+## Legislations
+
+In the test there is a question:  
+```
+Occupational health care investigates work conditions in order to prevent work related illnesses
+```
+It is not mentoined in the course, it is suprising for me that the answear is TRUE.  
+It should be clarified in the lesson about legislations: https://tva.fi/lms30/lesson/legislation/
+
 
 ## Working at height and lifting operations
 
@@ -49,3 +59,8 @@ Replace the local video with YT (use custom HTML rather that YouTube embed funct
 ```
 <iframe width="1024" height="768" src="https://www.youtube.com/embed/_P2qV3bn9Rg?si=59O5PEJGuKNw7cg5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
+
+
+## Question about forklift
+
+TEST question: `Forklift truck can be used by anyone and driver does not need a permit` with proper answear set as TRUE. We can rephrase the question or (better) change the right option to FALSE.
