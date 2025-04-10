@@ -59,10 +59,3 @@ Replace the local video with YT (use custom HTML rather that YouTube embed funct
 ```
 <iframe width="1024" height="768" src="https://www.youtube.com/embed/_P2qV3bn9Rg?si=59O5PEJGuKNw7cg5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
-
-
-## Question about forklift
-
-TEST question: `Forklift truck can be used by anyone and driver does not need a permit` with proper answear set as TRUE. We can rephrase the question or (better) change the right option to FALSE.  
-
-*Fixed in polish version*
