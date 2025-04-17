@@ -1,4 +1,4 @@
-| Do sprawdzenia                                                                                                     | OK | NIE ok | Nie dotyczy | problem rozwiązany |
+| Do sprawdzenia                                                                                                     | OK | NIE ok | Nie dotyczy | Problem rozwiązany |
 |--------------------------------------------------------------------------------------------------------------------|----|--------|-------------|--------------------|
 | Czy to prawidłowa lokalizacja?  Czy dojazd do obiektu jest bezpieczny?                                             |    |        |             |                    |
 | Czy masz pozwolenie na pracę?  Czy instrukcje są odpowiednie?  Czy plany są w porządku? Czy ryzyko jest znane?     |    |        |             |                    |
@@ -10,6 +10,6 @@
 | Czy jest możliwe utrzymanie czystego miejsca pracy? Czy uwzględniono bezpieczeństwo prac pożarowo niebezpiecznych? |    |        |             |                    |
 | Czy uwzględniono bezpieczeństwo podnoszenia, przenoszenia i pracy z wózkiem widłowym?                              |    |        |             |                    |
 | Czy zapewniono odpowiednie warunki stosowania środków chemicznych (bezpieczeństwo, sprzęt ochronny, odpady)?       |    |        |             |                    |
-|                                                                                                                    |    |        |             |                    |
-|                                                                                                                    |    |        |             |                    |
-|                                                                                                                    |    |        |             |                    |
+| Czy uwzględniono bezpieczeństwo pracy na wysokości, w pobliżu otworów lub w przestrzeniach zamkniętych?            |    |        |             |                    |
+| Czy ustalono sposób kontaktu, jeżeli pracujesz sam?                                                                |    |        |             |                    |
+| Czy znasz instrukcje awaryjne? Czy znasz najkrótszą i najbezpieczniejszą drogę ewakuacyjną?                        |    |        |             |                    |
